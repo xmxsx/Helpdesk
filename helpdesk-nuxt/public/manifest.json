@@ -1,0 +1,11 @@
+{
+    "name": "Helpdesk",
+    "short_name": "Helpdesk",
+    "description": "Welcome to Helpdesk, the best tool for managing support tickets and technical assistance. Efficiently handle tickets and improve your team's productivity.",
+    "lang": "en",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff"
+  }
+  
